@@ -1,4 +1,4 @@
-# Api crud golang
+# Api Crud Golang
 
 ### Run
 
@@ -19,5 +19,3 @@
 ```bash
    docker run --network host migrate -path /database -database "mysql://root:secret@tcp(db:3306)/crud" -verbose down -all
 ```
-
-# api-crud-golang
